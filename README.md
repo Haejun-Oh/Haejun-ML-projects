@@ -47,4 +47,4 @@ How does Machine Learning play in?
 
 In this GitHub repository...
 - Here, a modified Siamese version of the [FishNet](https://github.com/kevin-ssy/FishNet) architecture was developed to ingest two 2D images for the NOvA experiment images.
-- Continue onto src/SparseCNN directory for model details!
+- Continue onto src/SparseFishNet directory for model details!
